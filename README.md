@@ -8,3 +8,5 @@ We will utilize BeautifulSoup to scrape a table from a webpage and store the inf
 ## Requirements
 Pip install: requests, pandas, BeautifulSoup
 python3
+
+Okay
